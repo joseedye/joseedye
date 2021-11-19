@@ -11,7 +11,7 @@
 ### Hola mi nombre es Jose Eduardo Rozo
 - Soy un apasionado por el desarrollo
 - estudiante de Ingenieria de sistemas. 
-- Mi desempeño en Backend developer.
+- Mi desempeño en Backend developer java.
  
  [Linkedin](www.linkedin.com/in/jose-eduardo-rozo-molina-bb648b173)
  
