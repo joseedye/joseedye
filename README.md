@@ -1,12 +1,12 @@
 
-## Hola mundo! 
+## ¡Hola mundo! 
 </h2>
 
 
 
 <br />
 
-### Hola mi nombre es Jose Eduardo Rozo
+### Mi nombre es Jose Eduardo Rozo
 - Soy un apasionado por el desarrollo.
 - Estudiante de Ingenieria de Sistemas. 
 - Me desempeño en Backend Developer Java.
